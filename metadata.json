@@ -1,0 +1,6 @@
+{
+  "name": "Neon Brick Breaker",
+  "description": "An action-packed arcade brick breaker game featuring beautiful neon retro visuals, multiple power-ups, increasing difficulty levels, and locally persisted high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
